@@ -1,0 +1,16 @@
+{
+  "name": "pasport-auth",
+  "version": "1.0.0",
+  "description": "pasport auth lessons",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
